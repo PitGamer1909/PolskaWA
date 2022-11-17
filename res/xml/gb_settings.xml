@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/com.whatsapp" cmwmobile:title="@string/GB_Mods">
-    <PreferenceCategory cmwmobile:title="gbwhatsapp" cmwmobile:key="cat_wa">
+    <PreferenceCategory cmwmobile:title="polskawa" cmwmobile:key="cat_wa">
         <Preference cmwmobile:layout="@layout/ad" />
         <Preference cmwmobile:title="@string/settings_faq" cmwmobile:key="settings_faq" />
         <Preference cmwmobile:title="@string/updatess" cmwmobile:key="updates_key" />
