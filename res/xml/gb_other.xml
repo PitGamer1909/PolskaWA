@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/com.whatsapp" cmwmobile:title="@string/GB_Mods">
-    <PreferenceCategory cmwmobile:title="GBWhatsApp" cmwmobile:key="cat_wa">
+    <PreferenceCategory cmwmobile:title="PolskaWA" cmwmobile:key="cat_wa">
         <com.gb.gbwhatsapp.ImageListPreference cmwmobile:entries="@+id/src_atop" cmwmobile:title="@string/gb_icons" cmwmobile:key="gb_icons" cmwmobile:defaultValue="3" cmwmobile:entryValues="@+id/src_in" cmwmobile:entryImages="@+id/src_over" />
         <com.gb.gbwhatsapp.ImageListPreference cmwmobile:entries="@+id/center_horizontal" cmwmobile:title="@string/tick_style_title" cmwmobile:key="tick_style" cmwmobile:summary="@string/tick_style_sum" cmwmobile:defaultValue="0" cmwmobile:entryValues="@+id/center_vertical" cmwmobile:entryImages="@+id/left" />
         <ListPreference cmwmobile:entries="@+id/bottom" cmwmobile:title="@string/hide_notifications_title" cmwmobile:key="gb_notify_key" cmwmobile:defaultValue="0" cmwmobile:entryValues="@+id/center" />
